@@ -27,11 +27,11 @@ To get started with Intel-O-Flash locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/YourUsername/AIFlashcards.git
+    git clone https://github.com/YourUsername/AI-Flashcards.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd AIFlashcards
+    cd AI-Flashcards
     ```
 
 3. Install dependencies:
